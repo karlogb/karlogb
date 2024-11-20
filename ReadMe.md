@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔧 I’m currently working on: Developing innovative software solutions that streamline processes and enhance user experiences.<br>🌱 I’m currently learning: Advanced concepts in machine learning and cloud-based architectures.
+🔧 Developing innovative software solutions that streamline processes and enhance user experiences.<br>🌱 Advanced concepts in machine learning and cloud-based architectures.
 
 
 ## 🌐 Socials:
