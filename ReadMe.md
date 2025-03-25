@@ -7,13 +7,14 @@
 - 🧰 Custom automation tools for data scraping and reporting  
 - 📈 Analytics dashboards using BigQuery, Power BI and Looker Studio  
 - 📦 GTM Templates for scalable tagging systems  
-- 👻 TikTok horror channel: [@StrachZTemnoty](https://www.tiktok.com/@strachztemnoty)  
+- 👻 AI Generated Horror channel: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/StrachZTemnoty) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@StrachZTemnoty) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@StrachZTemnoty)
 
 ---
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karol-bolgar)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karol.bolgar@proton.me)
 
 ---
 
