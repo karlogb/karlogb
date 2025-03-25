@@ -67,7 +67,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=karlogb&theme=tokyonight&hide_border=false)  
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=karlogb&theme=tokyonight&hide_border=false)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlogb&theme=tokyonight&hide_border=false&layout=compact&langs_count=10)
 
 ---
