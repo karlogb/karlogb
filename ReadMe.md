@@ -68,6 +68,7 @@
 ## 📈 GitHub Stats
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=karlogb&theme=tokyonight&hide_border=false)  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlogb&theme=tokyonight&hide_border=false&layout=compact&langs_count=10)
 
 ---
@@ -77,5 +78,13 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=karlogb&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8)
 
 ---
+
+## 🧠 What I’m Currently Building
+
+- 🎬 AI-generated horror shorts using Python, OpenAI, ElevenLabs & MoviePy  
+- 🧰 Custom automation tools for data scraping and reporting  
+- 📈 Analytics dashboards using BigQuery, Power BI and Looker Studio  
+- 📦 GTM Templates for scalable tagging systems  
+- 👻 TikTok horror channel: [@StrachZTemnoty](https://www.tiktok.com/@strachztemnoty)  
 
 > “Work smart, automate the boring stuff, and always keep learning.” – Karol
