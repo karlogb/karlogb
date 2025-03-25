@@ -1,6 +1,14 @@
 🚀 Passionate developer & data enthusiast blending web tech, automation, cloud, and analytics into powerful digital solutions.  
 📊 I love turning data into insights and building tools that make life easier.
 
+## 🧠 What I’m Currently Building
+
+- 🎬 AI-generated horror shorts using Python, OpenAI, ElevenLabs & MoviePy  
+- 🧰 Custom automation tools for data scraping and reporting  
+- 📈 Analytics dashboards using BigQuery, Power BI and Looker Studio  
+- 📦 GTM Templates for scalable tagging systems  
+- 👻 TikTok horror channel: [@StrachZTemnoty](https://www.tiktok.com/@strachztemnoty)  
+
 ---
 
 ## 🌐 Connect with Me
@@ -78,13 +86,5 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=karlogb&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8)
 
 ---
-
-## 🧠 What I’m Currently Building
-
-- 🎬 AI-generated horror shorts using Python, OpenAI, ElevenLabs & MoviePy  
-- 🧰 Custom automation tools for data scraping and reporting  
-- 📈 Analytics dashboards using BigQuery, Power BI and Looker Studio  
-- 📦 GTM Templates for scalable tagging systems  
-- 👻 TikTok horror channel: [@StrachZTemnoty](https://www.tiktok.com/@strachztemnoty)  
 
 > “Work smart, automate the boring stuff, and always keep learning.” – Karol
