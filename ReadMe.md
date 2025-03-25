@@ -7,7 +7,12 @@
 - 🧰 Custom automation tools for data scraping and reporting  
 - 📈 Analytics dashboards using BigQuery, Power BI and Looker Studio  
 - 📦 GTM Templates for scalable tagging systems  
-- 👻 AI Generated Horror channel:    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/StrachZTemnoty) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@StrachZTemnoty) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@StrachZTemnoty)
+- 👻 AI Generated Horror channel:  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/StrachZTemnoty)
+&nbsp;&nbsp;
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@StrachZTemnoty)
+&nbsp;&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@StrachZTemnoty)
 
 ---
 
