@@ -3,11 +3,12 @@
 
 ## 🧠 What I’m Currently Building
 
-- 🎬 AI-generated horror shorts using Python, OpenAI, ElevenLabs & MoviePy  
 - 🧰 Custom automation tools for data scraping and reporting  
 - 📈 Analytics dashboards using BigQuery, Power BI and Looker Studio  
-- 📦 GTM Templates for scalable tagging systems  
-- 👻 AI Generated Horror channel:  
+- 📦 GTM Templates for scalable tagging systems
+- 🎬 AI-generated horror shorts using Python, OpenAI, ElevenLabs & MoviePy  
+- ~~👻 AI Generated Horror channel:~~ *(archived project)*  
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/StrachZTemnoty)
 &nbsp;&nbsp;
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@StrachZTemnoty)
