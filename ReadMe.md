@@ -7,7 +7,8 @@
 - 📈 Analytics dashboards using BigQuery, Power BI and Looker Studio  
 - 📦 GTM Templates for scalable tagging systems
 - 🎬 AI-generated horror shorts using Python, OpenAI, ElevenLabs & MoviePy  
-- ~~👻 AI Generated Horror channel~~ *(archived project)*  
+- ~~👻 AI Generated Horror channel~~ *(archived project)*
+- - 👻 AI Generated Horror channel - Bring back to life after almost a year!
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/StrachZTemnoty)
 &nbsp;&nbsp;
