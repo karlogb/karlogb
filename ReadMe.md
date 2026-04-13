@@ -50,13 +50,3 @@ I turn raw data into insights, build scalable pipelines, and automate everything
 **DevOps** — GitHub · Docker · Nginx · Apache · Postman
 
 ---
-
-### 👻 StrachZTemnoty
-
-Fully automated Slovak horror content pipeline — AI-written scripts, AI-generated voiceover & visuals, auto-edited and published daily.
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/StrachZTemnoty)
-&nbsp;&nbsp;
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@StrachZTemnoty)
-&nbsp;&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@StrachZTemnoty)
