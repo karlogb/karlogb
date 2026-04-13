@@ -18,7 +18,7 @@ I turn raw data into insights, build scalable pipelines, and automate everything
 - 🏗️ Building **data infrastructure** on Google Cloud — BigQuery, Cloud Run, ETL pipelines with Airbyte
 - 📊 Creating **analytics solutions** with GA4, server-side GTM, Looker Studio & Power BI
 - 🤖 Automating workflows — from data scraping & reporting to AI-powered content generation
-- 🎬 Running **[@StrachZTemnoty](https://youtube.com/@StrachZTemnoty)** — AI-generated Slovak horror shorts
+- 🎬 Running **[@StayUnderstated](https://www.youtube.com/@StayUnderstated)** — Running as a hobby and learning with AI
 
 ---
 
